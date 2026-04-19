@@ -1,0 +1,1 @@
+give @s compass[custom_data={menhunt:1b,runner:1b},food={nutrition:0,saturation:0,can_always_eat:true},consumable={consume_seconds:9999999,animation:"none",has_consume_particles:false}]

@@ -1,0 +1,3 @@
+execute unless data storage menhunt:pos {true:true} run data merge storage menhunt:pos {true:true,nether:{in:{Dimension:"minecraft:overworld"},out:{Dimension:"minecraft:the_nether"}},end:{Dimension:"minecraft:overworld"}}
+
+tellraw @a [{"text": "Menhunt Compass","color": "gray"},{"text": " by Edward821821","color": "green",click_event:{action:"open_url",url:"https://modrinth.com/user/Edward821821"}},{text:" loaded.",color:"white"}]
