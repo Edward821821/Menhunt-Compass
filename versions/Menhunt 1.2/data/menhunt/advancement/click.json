@@ -1,0 +1,21 @@
+{
+    "criteria": {
+        "click":{
+            "trigger": "using_item",
+            "conditions": {
+                "item": {
+                    "items": "compass",
+                    "components": {
+                        "custom_data": {
+                            "menhunt":true,
+                            "runner":true
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "menhunt:click1"
+    }
+}

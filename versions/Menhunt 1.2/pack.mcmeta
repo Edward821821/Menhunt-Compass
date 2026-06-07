@@ -1,0 +1,18 @@
+{
+    "pack": {
+        "pack_format": 81,
+        "min_format": 80,
+        "max_format": 101,
+        "supported_formats": [80,101],
+        "description": [
+            {
+                "text": "Menhunt Compass",
+                "color": "dark_gray"
+            },
+            {
+                "text": "\nby Edward821821",
+                "color": "green"
+            }
+        ]
+    }
+}
